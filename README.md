@@ -1,4 +1,3 @@
 # git_test
-`code`
-- dot
-*boob*
+How it's work?
+Hello, Odin
